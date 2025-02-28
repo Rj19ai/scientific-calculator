@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/NRP345/scientific_calculator_Project.git'
+                git 'https://github.com/Rj19ai/scientific-calculator.git'
             }
         }
         stage('Build Docker Image') {
