@@ -40,4 +40,4 @@ if __name__ == "__main__":
         print(f"Power: {power(base, exponent)}")
 
     else:
-        print("Exiting program. Thanks!")
+        print("Exiting program. Thanks again!!")
